@@ -1,0 +1,12 @@
+.mainBody{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.logoCenter{
+  margin: 0 auto;
+  height: 10rem;
+  width: auto;
+}
